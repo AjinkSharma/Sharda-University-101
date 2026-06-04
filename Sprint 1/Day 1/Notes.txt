@@ -1,0 +1,508 @@
+
+C:\Users\Prajwal>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal
+
+06/03/2026  05:42 PM    <DIR>          .
+04/23/2026  07:47 PM    <DIR>          ..
+06/03/2026  07:41 PM    <DIR>          .android
+01/15/2026  09:20 PM    <DIR>          .antigravity
+05/26/2026  10:31 PM               173 .bash_history
+04/23/2026  07:42 PM    <DIR>          .cache
+04/28/2026  07:45 AM    <DIR>          .codex
+05/31/2026  10:39 PM    <DIR>          .copilot
+06/03/2026  05:42 PM                16 .emulator_console_auth_token
+01/16/2026  04:28 PM    <DIR>          .gemini
+04/21/2026  10:14 AM                60 .gitconfig
+05/31/2026  10:38 PM    <DIR>          .vscode
+05/31/2026  10:37 PM    <DIR>          .vscode-shared
+01/17/2026  09:40 AM    <DIR>          3D Objects
+05/26/2026  09:38 PM    <DIR>          campus-transit
+01/19/2026  04:32 PM    <DIR>          Contacts
+06/04/2026  09:03 AM    <DIR>          Desktop
+05/20/2026  01:40 PM    <DIR>          Documents
+06/03/2026  10:50 PM    <DIR>          Downloads
+01/19/2026  04:32 PM    <DIR>          Favorites
+01/19/2026  04:32 PM    <DIR>          Links
+05/04/2026  06:40 PM    <DIR>          Music
+03/27/2026  12:51 PM    <DIR>          myproject
+01/22/2026  06:17 AM    <DIR>          OneDrive
+01/31/2026  06:39 PM    <DIR>          Pictures
+01/19/2026  04:32 PM    <DIR>          Saved Games
+01/19/2026  04:32 PM    <DIR>          Searches
+04/27/2026  08:55 PM    <DIR>          Videos
+               3 File(s)            249 bytes
+              25 Dir(s)  116,172,726,272 bytes free
+
+C:\Users\Prajwal>cd documents
+
+C:\Users\Prajwal\Documents>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal\Documents
+
+05/20/2026  01:40 PM    <DIR>          .
+06/03/2026  05:42 PM    <DIR>          ..
+05/20/2026  09:18 AM            33,488 1.docx
+05/20/2026  09:19 AM           408,467 1.pdf
+03/22/2025  08:01 AM         2,269,715 20240822_114710.jpg.PDF
+03/22/2025  08:01 AM         4,181,387 20240922_162112.jpg.PDF
+04/22/2026  11:20 AM         1,109,128 ABHISHEKADS.pdf
+04/26/2026  01:12 PM           390,432 Aditi_EXP.pdf
+04/21/2026  11:14 AM           399,386 adsfilli.pdf
+05/16/2026  07:11 AM           723,680 Ads_Answer.pdf
+02/06/2026  12:39 PM            16,409 AI_Learning.docx
+01/28/2026  06:13 PM           535,896 ajink-resume.pdf
+05/03/2026  08:36 AM           227,157 AjinkAdmitC.pdf
+04/22/2026  11:05 AM           924,767 AjinkADS.docx
+04/22/2026  11:05 AM         1,109,012 AjinkADS.pdf
+05/09/2026  09:36 AM            91,115 Ajink_Forage_Certificate.pdf
+02/01/2026  02:27 PM           299,226 ajink_resume.pdf
+05/12/2026  06:20 AM            51,993 answer_wda.docx
+05/12/2026  06:21 AM           637,191 answer_wda.pdf
+05/11/2026  04:05 PM    <DIR>          A_Desktop
+01/12/2026  06:04 AM        15,140,408 Basic presentation.pptx
+01/28/2026  07:50 PM           375,192 Bhumika-Resume.pdf
+01/28/2026  08:34 PM           338,151 BHUMIKA.pdf
+05/03/2026  08:37 AM           239,058 BhumikaAdmitC.pdf
+04/27/2026  08:14 PM    <DIR>          Codex
+05/08/2026  09:21 PM            29,045 Competitive_Analysis_Report_Ajink.docx
+09/16/2022  11:50 AM            37,247 Contacts.vcf
+01/12/2026  06:04 AM    <DIR>          Custom Office Templates
+05/09/2026  09:33 AM            27,311 Customer_Research_Findings_Report_Ajink.docx
+04/09/2026  06:16 PM           348,160 Database1.accdb
+01/30/2026  04:34 PM        13,853,660 DayalBagh_Robtor.pptx
+03/31/2026  04:39 AM    <DIR>          DCIM
+04/24/2026  01:18 PM           838,268 Deco Comp ECR File.pdf
+02/13/2026  09:54 AM             9,626 Decoration_Compitititon.xlsx
+02/25/2026  12:13 PM             6,186 Deco_Expense.xlsx
+02/11/2026  07:12 PM    <DIR>          Dell
+04/23/2026  10:08 AM               730 Desktop - Shortcut.lnk
+04/22/2026  11:10 AM           128,383 Doc1.docx
+04/22/2026  11:09 AM           242,128 Doc1.pdf
+02/09/2026  03:36 PM            13,922 event coordinators.xlsx
+02/09/2026  11:22 AM            16,835 Event Name.docx
+01/12/2026  11:06 AM           634,017 GDGoC-Agra- TechSprint PPT Submission Template.pptx
+01/29/2026  10:05 PM             6,458 image1.jpg
+02/26/2025  11:34 AM           131,439 in.gov.abc-ABCID-408917779453.pdf
+02/04/2026  10:02 PM    <DIR>          learning
+01/29/2026  01:48 PM           418,864 mukul-resume.pdf
+02/08/2026  04:52 PM           386,244 Mukul_WDA.pdf
+02/15/2026  07:51 PM    <DIR>          OS notes
+05/14/2026  06:25 AM            30,132 os_answer.docx
+05/14/2026  06:24 AM           488,047 OS_Answer.pdf
+04/08/2026  11:18 AM           222,630 pdalab.pdf
+04/08/2026  11:18 AM            89,066 pdalab1.docx
+04/08/2026  11:21 AM           284,054 pdalab2.pdf
+02/05/2026  05:35 PM                48 pinly.txt
+02/05/2026  11:53 PM         1,250,601 Python for Data Science.pdf
+01/17/2026  02:58 PM           284,830 report.jpg
+04/28/2026  07:45 AM            64,449 Resume Analyzer.docx
+04/28/2026  07:43 AM           869,054 Resume Analyzer.pdf
+05/17/2026  09:21 AM           188,233 Resume.pdf
+01/30/2026  04:34 PM        13,853,662 Robtor_final.pptx
+04/23/2026  10:53 AM         8,548,320 Robtor_project_exhibition.pptx
+01/20/2026  10:57 AM         9,831,206 Robtor_updated.pptx
+03/31/2026  04:40 AM    <DIR>          Screenshots
+05/14/2026  06:08 PM           393,834 Sem3_Result.pdf
+02/26/2025  11:34 AM         1,147,829 Step_by_Step_Guide_APAAR_ID_Updation_1.pdf
+04/24/2026  04:34 PM           282,724 TOC112.pdf
+03/05/2026  07:52 PM         6,220,854 uc.bmp
+02/26/2025  11:34 AM           202,821 ViewGeneratedDocs.pdf
+02/08/2026  05:02 PM           376,291 WDA_Experiment.docx
+03/07/2026  06:39 PM    <DIR>          Zoom
+              59 File(s)     91,258,466 bytes
+              11 Dir(s)  116,172,726,272 bytes free
+
+C:\Users\Prajwal\Documents>cd practice
+
+C:\Users\Prajwal\Documents\practice>cd ../..
+
+C:\Users\Prajwal>cd documents/practice
+
+C:\Users\Prajwal\Documents\practice>cd ../..
+
+C:\Users\Prajwal>cd documents
+
+C:\Users\Prajwal\Documents>mkdir Practice11
+
+C:\Users\Prajwal\Documents>cd practice11
+
+C:\Users\Prajwal\Documents\Practice11>mkdir practice22 practice33
+
+C:\Users\Prajwal\Documents\Practice11>../..
+'..' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Prajwal\Documents\Practice11>cd ../..
+
+C:\Users\Prajwal>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal
+
+06/03/2026  05:42 PM    <DIR>          .
+04/23/2026  07:47 PM    <DIR>          ..
+06/03/2026  07:41 PM    <DIR>          .android
+01/15/2026  09:20 PM    <DIR>          .antigravity
+05/26/2026  10:31 PM               173 .bash_history
+04/23/2026  07:42 PM    <DIR>          .cache
+04/28/2026  07:45 AM    <DIR>          .codex
+05/31/2026  10:39 PM    <DIR>          .copilot
+06/03/2026  05:42 PM                16 .emulator_console_auth_token
+01/16/2026  04:28 PM    <DIR>          .gemini
+04/21/2026  10:14 AM                60 .gitconfig
+05/31/2026  10:38 PM    <DIR>          .vscode
+05/31/2026  10:37 PM    <DIR>          .vscode-shared
+01/17/2026  09:40 AM    <DIR>          3D Objects
+05/26/2026  09:38 PM    <DIR>          campus-transit
+01/19/2026  04:32 PM    <DIR>          Contacts
+06/04/2026  09:03 AM    <DIR>          Desktop
+06/04/2026  02:21 PM    <DIR>          Documents
+06/03/2026  10:50 PM    <DIR>          Downloads
+01/19/2026  04:32 PM    <DIR>          Favorites
+01/19/2026  04:32 PM    <DIR>          Links
+05/04/2026  06:40 PM    <DIR>          Music
+03/27/2026  12:51 PM    <DIR>          myproject
+01/22/2026  06:17 AM    <DIR>          OneDrive
+01/31/2026  06:39 PM    <DIR>          Pictures
+01/19/2026  04:32 PM    <DIR>          Saved Games
+01/19/2026  04:32 PM    <DIR>          Searches
+04/27/2026  08:55 PM    <DIR>          Videos
+               3 File(s)            249 bytes
+              25 Dir(s)  116,114,006,016 bytes free
+
+C:\Users\Prajwal>cd documents/practice11
+
+C:\Users\Prajwal\Documents\Practice11>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal\Documents\Practice11
+
+06/04/2026  02:23 PM    <DIR>          .
+06/04/2026  02:21 PM    <DIR>          ..
+06/04/2026  02:23 PM    <DIR>          practice22
+06/04/2026  02:23 PM    <DIR>          practice33
+               0 File(s)              0 bytes
+               4 Dir(s)  116,114,006,016 bytes free
+
+C:\Users\Prajwal\Documents\Practice11>echo "welcome mern stack"
+"welcome mern stack"
+
+C:\Users\Prajwal\Documents\Practice11>Echo "Abhay Bhaii"
+"Abhay Bhaii"
+
+C:\Users\Prajwal\Documents\Practice11>echo "Welcome" >> Notes.txt
+
+C:\Users\Prajwal\Documents\Practice11>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal\Documents\Practice11
+
+06/04/2026  02:29 PM    <DIR>          .
+06/04/2026  02:21 PM    <DIR>          ..
+06/04/2026  02:29 PM                12 Notes.txt
+06/04/2026  02:23 PM    <DIR>          practice22
+06/04/2026  02:23 PM    <DIR>          practice33
+               1 File(s)             12 bytes
+               4 Dir(s)  116,113,649,664 bytes free
+
+C:\Users\Prajwal\Documents\Practice11>notepad notes.txt
+
+C:\Users\Prajwal\Documents\Practice11>del notes.txt
+
+C:\Users\Prajwal\Documents\Practice11>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal\Documents\Practice11
+
+06/04/2026  02:38 PM    <DIR>          .
+06/04/2026  02:21 PM    <DIR>          ..
+06/04/2026  02:23 PM    <DIR>          practice22
+06/04/2026  02:23 PM    <DIR>          practice33
+               0 File(s)              0 bytes
+               4 Dir(s)  116,089,708,544 bytes free
+
+C:\Users\Prajwal\Documents\Practice11>remdir practice11
+'remdir' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Prajwal\Documents\Practice11>rmdir practice33
+
+C:\Users\Prajwal\Documents\Practice11>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal\Documents\Practice11
+
+06/04/2026  02:39 PM    <DIR>          .
+06/04/2026  02:21 PM    <DIR>          ..
+06/04/2026  02:23 PM    <DIR>          practice22
+               0 File(s)              0 bytes
+               3 Dir(s)  116,089,593,856 bytes free
+
+C:\Users\Prajwal\Documents\Practice11>color 0A
+
+C:\Users\Prajwal\Documents\Practice11>cd ..
+
+C:\Users\Prajwal\Documents>rmdir /s practice11
+practice11, Are you sure (Y/N)? y
+The process cannot access the file because it is being used by another process.
+
+C:\Users\Prajwal\Documents>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal\Documents
+
+06/04/2026  02:21 PM    <DIR>          .
+06/03/2026  05:42 PM    <DIR>          ..
+05/20/2026  09:18 AM            33,488 1.docx
+05/20/2026  09:19 AM           408,467 1.pdf
+03/22/2025  08:01 AM         2,269,715 20240822_114710.jpg.PDF
+03/22/2025  08:01 AM         4,181,387 20240922_162112.jpg.PDF
+04/22/2026  11:20 AM         1,109,128 ABHISHEKADS.pdf
+04/26/2026  01:12 PM           390,432 Aditi_EXP.pdf
+04/21/2026  11:14 AM           399,386 adsfilli.pdf
+05/16/2026  07:11 AM           723,680 Ads_Answer.pdf
+02/06/2026  12:39 PM            16,409 AI_Learning.docx
+01/28/2026  06:13 PM           535,896 ajink-resume.pdf
+05/03/2026  08:36 AM           227,157 AjinkAdmitC.pdf
+04/22/2026  11:05 AM           924,767 AjinkADS.docx
+04/22/2026  11:05 AM         1,109,012 AjinkADS.pdf
+05/09/2026  09:36 AM            91,115 Ajink_Forage_Certificate.pdf
+02/01/2026  02:27 PM           299,226 ajink_resume.pdf
+05/12/2026  06:20 AM            51,993 answer_wda.docx
+05/12/2026  06:21 AM           637,191 answer_wda.pdf
+05/11/2026  04:05 PM    <DIR>          A_Desktop
+01/12/2026  06:04 AM        15,140,408 Basic presentation.pptx
+01/28/2026  07:50 PM           375,192 Bhumika-Resume.pdf
+01/28/2026  08:34 PM           338,151 BHUMIKA.pdf
+05/03/2026  08:37 AM           239,058 BhumikaAdmitC.pdf
+04/27/2026  08:14 PM    <DIR>          Codex
+05/08/2026  09:21 PM            29,045 Competitive_Analysis_Report_Ajink.docx
+09/16/2022  11:50 AM            37,247 Contacts.vcf
+01/12/2026  06:04 AM    <DIR>          Custom Office Templates
+05/09/2026  09:33 AM            27,311 Customer_Research_Findings_Report_Ajink.docx
+04/09/2026  06:16 PM           348,160 Database1.accdb
+01/30/2026  04:34 PM        13,853,660 DayalBagh_Robtor.pptx
+03/31/2026  04:39 AM    <DIR>          DCIM
+04/24/2026  01:18 PM           838,268 Deco Comp ECR File.pdf
+02/13/2026  09:54 AM             9,626 Decoration_Compitititon.xlsx
+02/25/2026  12:13 PM             6,186 Deco_Expense.xlsx
+02/11/2026  07:12 PM    <DIR>          Dell
+04/23/2026  10:08 AM               730 Desktop - Shortcut.lnk
+04/22/2026  11:10 AM           128,383 Doc1.docx
+04/22/2026  11:09 AM           242,128 Doc1.pdf
+02/09/2026  03:36 PM            13,922 event coordinators.xlsx
+02/09/2026  11:22 AM            16,835 Event Name.docx
+01/12/2026  11:06 AM           634,017 GDGoC-Agra- TechSprint PPT Submission Template.pptx
+01/29/2026  10:05 PM             6,458 image1.jpg
+02/26/2025  11:34 AM           131,439 in.gov.abc-ABCID-408917779453.pdf
+02/04/2026  10:02 PM    <DIR>          learning
+01/29/2026  01:48 PM           418,864 mukul-resume.pdf
+02/08/2026  04:52 PM           386,244 Mukul_WDA.pdf
+02/15/2026  07:51 PM    <DIR>          OS notes
+05/14/2026  06:25 AM            30,132 os_answer.docx
+05/14/2026  06:24 AM           488,047 OS_Answer.pdf
+04/08/2026  11:18 AM           222,630 pdalab.pdf
+04/08/2026  11:18 AM            89,066 pdalab1.docx
+04/08/2026  11:21 AM           284,054 pdalab2.pdf
+02/05/2026  05:35 PM                48 pinly.txt
+06/04/2026  01:22 PM    <DIR>          practice
+06/04/2026  02:41 PM    <DIR>          Practice11
+02/05/2026  11:53 PM         1,250,601 Python for Data Science.pdf
+01/17/2026  02:58 PM           284,830 report.jpg
+04/28/2026  07:45 AM            64,449 Resume Analyzer.docx
+04/28/2026  07:43 AM           869,054 Resume Analyzer.pdf
+05/17/2026  09:21 AM           188,233 Resume.pdf
+01/30/2026  04:34 PM        13,853,662 Robtor_final.pptx
+04/23/2026  10:53 AM         8,548,320 Robtor_project_exhibition.pptx
+01/20/2026  10:57 AM         9,831,206 Robtor_updated.pptx
+03/31/2026  04:40 AM    <DIR>          Screenshots
+05/14/2026  06:08 PM           393,834 Sem3_Result.pdf
+02/26/2025  11:34 AM         1,147,829 Step_by_Step_Guide_APAAR_ID_Updation_1.pdf
+04/24/2026  04:34 PM           282,724 TOC112.pdf
+03/05/2026  07:52 PM         6,220,854 uc.bmp
+02/26/2025  11:34 AM           202,821 ViewGeneratedDocs.pdf
+02/08/2026  05:02 PM           376,291 WDA_Experiment.docx
+03/07/2026  06:39 PM    <DIR>          Zoom
+              59 File(s)     91,258,466 bytes
+              13 Dir(s)  116,091,514,880 bytes free
+
+C:\Users\Prajwal\Documents>rmdir /s practice11
+practice11, Are you sure (Y/N)? y
+
+C:\Users\Prajwal\Documents>mkdir practice11
+
+C:\Users\Prajwal\Documents>cd practice11
+
+C:\Users\Prajwal\Documents\practice11>mkdir abhay knox
+
+C:\Users\Prajwal\Documents\practice11>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal\Documents\practice11
+
+06/04/2026  02:44 PM    <DIR>          .
+06/04/2026  02:44 PM    <DIR>          ..
+06/04/2026  02:44 PM    <DIR>          abhay
+06/04/2026  02:44 PM    <DIR>          knox
+               0 File(s)              0 bytes
+               4 Dir(s)  116,098,801,664 bytes free
+
+C:\Users\Prajwal\Documents\practice11>cd ..
+
+C:\Users\Prajwal\Documents>rmdir /s /q practice11
+
+C:\Users\Prajwal\Documents>dir
+ Volume in drive C has no label.
+ Volume Serial Number is D014-1F61
+
+ Directory of C:\Users\Prajwal\Documents
+
+06/04/2026  02:45 PM    <DIR>          .
+06/03/2026  05:42 PM    <DIR>          ..
+05/20/2026  09:18 AM            33,488 1.docx
+05/20/2026  09:19 AM           408,467 1.pdf
+03/22/2025  08:01 AM         2,269,715 20240822_114710.jpg.PDF
+03/22/2025  08:01 AM         4,181,387 20240922_162112.jpg.PDF
+04/22/2026  11:20 AM         1,109,128 ABHISHEKADS.pdf
+04/26/2026  01:12 PM           390,432 Aditi_EXP.pdf
+04/21/2026  11:14 AM           399,386 adsfilli.pdf
+05/16/2026  07:11 AM           723,680 Ads_Answer.pdf
+02/06/2026  12:39 PM            16,409 AI_Learning.docx
+01/28/2026  06:13 PM           535,896 ajink-resume.pdf
+05/03/2026  08:36 AM           227,157 AjinkAdmitC.pdf
+04/22/2026  11:05 AM           924,767 AjinkADS.docx
+04/22/2026  11:05 AM         1,109,012 AjinkADS.pdf
+05/09/2026  09:36 AM            91,115 Ajink_Forage_Certificate.pdf
+02/01/2026  02:27 PM           299,226 ajink_resume.pdf
+05/12/2026  06:20 AM            51,993 answer_wda.docx
+05/12/2026  06:21 AM           637,191 answer_wda.pdf
+05/11/2026  04:05 PM    <DIR>          A_Desktop
+01/12/2026  06:04 AM        15,140,408 Basic presentation.pptx
+01/28/2026  07:50 PM           375,192 Bhumika-Resume.pdf
+01/28/2026  08:34 PM           338,151 BHUMIKA.pdf
+05/03/2026  08:37 AM           239,058 BhumikaAdmitC.pdf
+04/27/2026  08:14 PM    <DIR>          Codex
+05/08/2026  09:21 PM            29,045 Competitive_Analysis_Report_Ajink.docx
+09/16/2022  11:50 AM            37,247 Contacts.vcf
+01/12/2026  06:04 AM    <DIR>          Custom Office Templates
+05/09/2026  09:33 AM            27,311 Customer_Research_Findings_Report_Ajink.docx
+04/09/2026  06:16 PM           348,160 Database1.accdb
+01/30/2026  04:34 PM        13,853,660 DayalBagh_Robtor.pptx
+03/31/2026  04:39 AM    <DIR>          DCIM
+04/24/2026  01:18 PM           838,268 Deco Comp ECR File.pdf
+02/13/2026  09:54 AM             9,626 Decoration_Compitititon.xlsx
+02/25/2026  12:13 PM             6,186 Deco_Expense.xlsx
+02/11/2026  07:12 PM    <DIR>          Dell
+04/23/2026  10:08 AM               730 Desktop - Shortcut.lnk
+04/22/2026  11:10 AM           128,383 Doc1.docx
+04/22/2026  11:09 AM           242,128 Doc1.pdf
+02/09/2026  03:36 PM            13,922 event coordinators.xlsx
+02/09/2026  11:22 AM            16,835 Event Name.docx
+01/12/2026  11:06 AM           634,017 GDGoC-Agra- TechSprint PPT Submission Template.pptx
+01/29/2026  10:05 PM             6,458 image1.jpg
+02/26/2025  11:34 AM           131,439 in.gov.abc-ABCID-408917779453.pdf
+02/04/2026  10:02 PM    <DIR>          learning
+01/29/2026  01:48 PM           418,864 mukul-resume.pdf
+02/08/2026  04:52 PM           386,244 Mukul_WDA.pdf
+02/15/2026  07:51 PM    <DIR>          OS notes
+05/14/2026  06:25 AM            30,132 os_answer.docx
+05/14/2026  06:24 AM           488,047 OS_Answer.pdf
+04/08/2026  11:18 AM           222,630 pdalab.pdf
+04/08/2026  11:18 AM            89,066 pdalab1.docx
+04/08/2026  11:21 AM           284,054 pdalab2.pdf
+02/05/2026  05:35 PM                48 pinly.txt
+06/04/2026  01:22 PM    <DIR>          practice
+02/05/2026  11:53 PM         1,250,601 Python for Data Science.pdf
+01/17/2026  02:58 PM           284,830 report.jpg
+04/28/2026  07:45 AM            64,449 Resume Analyzer.docx
+04/28/2026  07:43 AM           869,054 Resume Analyzer.pdf
+05/17/2026  09:21 AM           188,233 Resume.pdf
+01/30/2026  04:34 PM        13,853,662 Robtor_final.pptx
+04/23/2026  10:53 AM         8,548,320 Robtor_project_exhibition.pptx
+01/20/2026  10:57 AM         9,831,206 Robtor_updated.pptx
+03/31/2026  04:40 AM    <DIR>          Screenshots
+05/14/2026  06:08 PM           393,834 Sem3_Result.pdf
+02/26/2025  11:34 AM         1,147,829 Step_by_Step_Guide_APAAR_ID_Updation_1.pdf
+04/24/2026  04:34 PM           282,724 TOC112.pdf
+03/05/2026  07:52 PM         6,220,854 uc.bmp
+02/26/2025  11:34 AM           202,821 ViewGeneratedDocs.pdf
+02/08/2026  05:02 PM           376,291 WDA_Experiment.docx
+03/07/2026  06:39 PM    <DIR>          Zoom
+              59 File(s)     91,258,466 bytes
+              12 Dir(s)  116,097,605,632 bytes free
+
+C:\Users\Prajwal\Documents>cd /
+
+C:\>D:
+
+D:\>mkdir Sharda University
+
+D:\>dir
+ Volume in drive D is MicroSD
+ Volume Serial Number is CA75-31C5
+
+ Directory of D:\
+
+06/04/2026  03:09 PM    <DIR>          Sharda
+06/04/2026  03:09 PM    <DIR>          University
+               0 File(s)              0 bytes
+               2 Dir(s)  16,056,885,248 bytes free
+
+D:\>mkdir "Sharda University"
+
+D:\>dir
+ Volume in drive D is MicroSD
+ Volume Serial Number is CA75-31C5
+
+ Directory of D:\
+
+06/04/2026  03:09 PM    <DIR>          Sharda
+06/04/2026  03:09 PM    <DIR>          Sharda University
+06/04/2026  03:09 PM    <DIR>          University
+               0 File(s)              0 bytes
+               3 Dir(s)  16,056,885,248 bytes free
+
+D:\>rmdir "sharda" "university"
+
+D:\>dir
+ Volume in drive D is MicroSD
+ Volume Serial Number is CA75-31C5
+
+ Directory of D:\
+
+06/04/2026  03:09 PM    <DIR>          Sharda University
+               0 File(s)              0 bytes
+               1 Dir(s)  16,056,885,248 bytes free
+
+D:\>mkdir "Sprint 1" "Sprint 2" "Sprint 3" "Sprint 4"
+
+D:\>cd sprint 1
+
+D:\Sprint 1>mkdir "Day 1"
+
+D:\Sprint 1>cd day1
+The system cannot find the path specified.
+
+D:\Sprint 1>cd day 1
+
+D:\Sprint 1\Day 1>Notes.txt
+'Notes.txt' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\Sprint 1\Day 1>echo >> Notes.txt
+
+D:\Sprint 1\Day 1>notes.txt
+
+D:\Sprint 1\Day 1>
